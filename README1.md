@@ -6,6 +6,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/justmarkham/DAT8)
 Binder1
+Binder 2
+Binder 3
+Binder 4
 Tuesday | Thursday
 --- | ---
 8/18: [Introduction to Data Science](#class-1-introduction-to-data-science) | 8/20: [Command Line, Version Control](#class-2-command-line-and-version-control)

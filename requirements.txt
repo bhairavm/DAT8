@@ -1,2 +1,4 @@
 seaborn
 textblob
+textblob1
+textblob2
